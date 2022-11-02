@@ -3,8 +3,8 @@ PROGRAM ErrorAssignment;
 VAR
     i, j, k : integer;
     alpha, beta, gamma : real;
-    p : boolean;
-    m, j, n : integer;
+    p: boolean;
+    m, j, n: integer;
     str, txt : string;
     
 BEGIN
