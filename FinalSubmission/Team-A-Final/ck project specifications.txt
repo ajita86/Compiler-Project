@@ -1,0 +1,30 @@
+Types:
+I - Integer
+S - String
+D - Double
+
+Arithmetic Operations:
++ - / *
+normal OOP
+
+Assignment statement:
+Identifier = Statement;
+
+Conditional Control Statement:
+if
+
+Looping Control Statment:
+while
+
+Functions with call and return:
+F returnType functionIdentifier[functionArguments]
+{
+	compoundStatement
+}
+
+Parameters passed by value
+
+Error Recover:
+skip to end of statment
+
+Sample program is written

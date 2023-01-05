@@ -1,0 +1,7 @@
+hello
+test
+The quick red fox jumped over the lazy brown dog
+0
+1.1
+0123456789
+[16 milliseconds execution time.]

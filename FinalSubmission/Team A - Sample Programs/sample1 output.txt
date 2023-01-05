@@ -1,0 +1,45 @@
+
+EXECUTING: SAMPLE1
+
+Cypher = vjg swkem tgf hqz lworgf qxgt vjg ncba dtqyp fqi
+
+Polyalphabet = jwqSrgyklVwytIrny`zcnrjxJdhds`jpfVqupn`asamvUfta
+
+Cypher String Analysis = 0:1; 1:1; 2:1; 3:1; 4:1; 5:3; 6:5; 7:1; 8:1; 9:2; 10:1; 11:1; 12:1; 13:1; 14:1; 15:1; 16:4; 17:1; 18:1; 19:3; 20:0; 21:2; 22:2; 23:1; 24:1; 25:1;
+
+Polyalphabet String Analysis = 0:3; 1:0; 2:1; 3:2; 4:0; 5:2; 6:1; 7:1; 8:1; 9:4; 10:1; 11:1; 12:1; 13:3; 14:0; 15:2; 16:2; 17:3; 18:3; 19:2; 20:2; 21:3; 22:2; 23:1; 24:3; 25:1;
+
+while loop:
+
+1
+1.1
+2
+2.2
+3
+6.6000004
+4
+26.400002
+5
+132.0
+6
+792.0
+7
+5544.0
+8
+44352.0
+9
+399168.0
+10
+3991680.0
+
+if statement:
+
+decyphered!
+
+Plaintext = the quick red fox jumped over the lazy brown dog
+
+Plaintext Analysis = 0:1; 1:1; 2:1; 3:3; 4:5; 5:1; 6:1; 7:2; 8:1; 9:1; 10:1; 11:1; 12:1; 13:1; 14:4; 15:1; 16:1; 17:3; 18:0; 19:2; 20:2; 21:1; 22:1; 23:1; 24:1; 25:1;
+
+DONE!
+
+[31 milliseconds execution time.]

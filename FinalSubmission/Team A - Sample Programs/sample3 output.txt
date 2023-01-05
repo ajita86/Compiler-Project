@@ -1,0 +1,14 @@
+
+EXECUTING: SAMPLE3
+
+encrypted and decrypted!
+
+if statement:
+
+Encryption String analysis = 0:10; 1:8; 2:10; 3:3; 4:1; 5:6; 6:6; 7:10; 8:7; 9:1; 10:0; 11:0; 12:0; 13:0; 14:9; 15:1; 16:4; 17:9; 18:13; 19:0; 20:2; 21:0; 22:15; 23:0; 24:0; 25:6;
+
+Encryption Polyalphabet = prrrqIicwxmShrlbvIsvxIaziw`psqsrgwegyu`nhlpvwfiakIeymw`fig`qsIevyvmbhItrqsoeJlnpmgiqyqtSyw`yeeoeiIegJgoysueSqdgaeIaymtunJxtSiqizJddSqlnvqIvrrlaz
+
+DONE!
+
+[0 milliseconds execution time.]
